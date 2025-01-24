@@ -1,3 +1,30 @@
+# React Calculator App (wireframes) 'PM' Project
+
+*Wireframes*
+~Preliminary Stage vs Final Stage~
+
+I’ve created two wireframe variations to illustrate the design progression to the React Calculator Project— it’s very basic. Using coding language: JavaScript, React + Tailwind packages, among others!
+
+**Preliminary Stage Wireframe**
+Focuses on basic layout and component placeholders
+Uses dashed borders and grayscale elements
+Represents initial conceptual design
+Highlights three main sections: Login, Calculator, History
+
+**Final Stage Wireframe**
+Detailed, fully realized design
+Colorful and interactive elements
+Complete functionality representation
+Includes:
+- Secure login with two-factor authentication option
+- Advanced calculator with full button set
+- Calculation history with edit/delete capabilities
+
+## Documentation
+[React Calculator PM Project-MarlonRegis.pdf](https://github.com/user-attachments/files/18529104/React.Calculator.PM.Project-MarlonRegis.pdf)
+
+## Link: https://marlonpelau.github.io/wireframesreactcalculator/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
