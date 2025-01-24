@@ -1,7 +1,7 @@
 # React Calculator App (wireframes) 'PM' Project
 
 *Wireframes*
-~Preliminary Stage vs Final Stage~
+Preliminary Stage vs Final Stage
 
 I’ve created two wireframe variations to illustrate the design progression to the React Calculator Project— it’s very basic. Using coding language: JavaScript, React + Tailwind packages, among others!
 
